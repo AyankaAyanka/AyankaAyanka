@@ -14,5 +14,5 @@ Aspiring Data Analyst passionate about transforming data into actionable insight
 📈 Financial Analysis (coming soon)
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/aiana-karabaeva
+LinkedIn: https://www.linkedin.com/in/aiana-karabaeva-6540b4373/
 Email: audreyhaven4@gmail.com
