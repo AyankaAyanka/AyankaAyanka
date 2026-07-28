@@ -27,6 +27,7 @@ Aspiring Data Analyst passionate about transforming data into actionable insight
 
 ## Projects
 📊 AI Impact on Jobs (2010–2025)
+
 📈 Financial Analysis (coming soon)
 
 ## Contact
