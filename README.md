@@ -1,6 +1,6 @@
 # Hi, I'm Aiana 👋
 
-# Aspiring Data Analyst passionate about transforming data into actionable insights.
+Aspiring Data Analyst passionate about transforming data into actionable insights.
 
 ## 🛠 Tools & Technologies
 
