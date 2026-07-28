@@ -3,11 +3,7 @@
 Aspiring Data Analyst passionate about transforming data into actionable insights.
 
 ## Skills
-- SQL
-- Python (Pandas, NumPy)
-- Power BI
-- Excel
-- Tableau
+[![My Skills](https://skillicons.dev/icons?i=python,sql,pandas,numpy,postgres,powerbi,git,github,vscode)](https://skillicons.dev)
 
 ## Projects
 📊 AI Impact on Jobs (2010–2025)
